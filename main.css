@@ -1,7 +1,7 @@
 @charset "UTF-8";
-/*! ClearVision v6.1.1 by the CV team */
-/*! Powered by DiscordSelectors v0.2.7 */
-/* DEFAULT SETTINGS */
+/*! VladimerrrVision v2.0 by Vladimerrr */
+
+
 :root {
   --main-color: #2780e6;
   --hover-color: #1e63b3;
@@ -268,13 +268,13 @@ textarea,
   order: 1;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:before {
-  content: "ClearVision";
+  content: "VladimerrrVision";
   color: rgba(255, 255, 255, 0.7);
   font-size: 14px;
   text-shadow: 0 0 3px #000;
 }
 .typeWindows-1za-n7 > .wordmark-2iDDfm:after {
-  content: "v6.1.1";
+  content: "V2.0";
   color: rgba(255, 255, 255, 0.3);
   font-family: var(--code-font);
   font-size: 10px;
@@ -325,13 +325,13 @@ textarea,
   order: 1;
 }
 .typeMacOS-3EmCyP:before {
-  content: "CV";
+  content: "Vladimerrr";
   color: var(--main-color);
   font-weight: 700;
   text-shadow: 0 0 3px;
 }
 .typeMacOS-3EmCyP:after {
-  content: "6.1.1";
+  content: "V2.0";
   color: rgba(255, 255, 255, 0.3);
 }
 
